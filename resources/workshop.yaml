@@ -3,8 +3,8 @@ kind: Workshop
 metadata:
   name: "lab-nglviewer-testing"
 spec:
-  title: "Workshop"
-  description: "Workshop description."
+  title: "NGL Viewer Testing"
+  description: "Workshop demonstrating how one could embed and control NGL Viewer widget."
   publish:
     image: "$(image_repository)/lab-nglviewer-testing-files:$(workshop_version)"
   workshop:
